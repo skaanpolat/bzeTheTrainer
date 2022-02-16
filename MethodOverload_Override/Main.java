@@ -57,7 +57,7 @@ public class Main {
 
         @Override
         public void intro() {
-            System.out.println("Abi beni override ettiler dediğinde gittim seni pezevenklerin elinden gittim aldım!");
+            System.out.println("Abi beni override ettiler dediğinde gittim seni kötülerin elinden gittim aldım!");
         }
     }
 }
